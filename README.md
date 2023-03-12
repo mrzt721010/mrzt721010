@@ -4,9 +4,9 @@ I'm a Little Developer 💻, and Game Designer 🎮!
 
 <div align="center">
 
-[![Arman2122 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arman2122&show_icons=true&title_color=fff&bg_color=000&icon_color=fff&border_radius=20&hide_border=true&text_color=ff3030)](https://github.com/Arman2122)
+[![mrzt721010 GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrzt721010&show_icons=true&title_color=fff&bg_color=000&icon_color=fff&border_radius=20&hide_border=true&text_color=ff3030)](https://github.com/mrzt721010)
 
- [![Arman2122 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arman2122&layout=compact&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/Arman2122)
+ [![mrzt721010 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzt721010&layout=compact&show_icons=true&title_color=FFF&bg_color=000&icon_color=FFF&border_radius=10&hide_border=true&text_color=00CF91)](https://github.com/mrzt721010)
   
   
   ## Technologies and Tools I use:
