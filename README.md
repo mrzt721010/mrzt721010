@@ -18,9 +18,10 @@ I'm a Little Developer 💻, and Game Designer 🎮!
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png' width='40' height='40' />
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='40' height='40' />](https://git-scm.com/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg' width='40' height='40' />](https://marketplace.visualstudio.com/items?itemName=i007c.00-team-theme)
-[<img src='https://www.vectorlogo.zone/logos/java/java-vertical.svg' width='40' height='40' />](https://java.com/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' width='40' height='40' />](https://www.docker.com/)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg' width='40' height='40' />](https://www.docker.com/)
+[<img src='https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png' width='40' height='40' />](https://www.jetbrains.com/idea/)
+[<img src='https://www.vectorlogo.zone/logos/java/java-icon.svg' width='40' height='40' />](https://java.com/)
+[<img src='https://icons8.com/icon/34301/unreal-engine' width='40' height='40' />](https://www.unrealengine.com/)
+
 
 </div>
 
