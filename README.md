@@ -1,5 +1,5 @@
 <h1 align="center">
-I'm a Little Developer 💻, and MayB Designer 🎨!
+I'm a Little Developer 💻, and Game Designer 🎮!
 </h2> 
 
 <div align="center">
