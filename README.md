@@ -1,5 +1,6 @@
 <h1 align="center">
 I'm a Little Developer 💻, and Game Designer 🎮!
+ with dandiers support me ❤
 </h2> 
 
 <div align="center">
