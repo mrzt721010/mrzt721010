@@ -25,7 +25,7 @@ I'm a Little Developer 💻, and Game Designer 🎮!
 
 </div>
 
-## 🔭 I'm currently working In
+## 🔭 I'm currently working in:
 
 - Trek Company's geometry division 🤫
 
